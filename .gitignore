@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python egg metadata
+*.egg-info/
+
+# Environment variables or credentials (if any)
+.env
+
+# Pytest cache
+.pytest_cache/
+
+# Streamlit logs
+.streamlit/
+
+# Cache files
+*.log
+*.tmp
+*.bak
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+*.o
+*.a
+
+# OS-specific folders
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Pipenv
+Pipfile.lock
+
+# dotenv
+.env.*
+
+# MyPy cache
+.mypy_cache/
